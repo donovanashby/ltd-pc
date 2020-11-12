@@ -14,7 +14,11 @@
 % 
 % add folders and subfolders to MATLAB path
 % no compiling
-% 
+%
+%% Licence
+% Software is provided as is, distributed under GPL.
+%
+%
 %% Instructions for use
 
 % Evoked electrophysiology
