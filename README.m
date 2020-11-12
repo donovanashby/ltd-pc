@@ -24,8 +24,8 @@
 % Evoked electrophysiology
 % import_v2: imports evoked responses from a CSC recording
 % waveplot_v1: aggregates data across channels
-% tractplot_v1: plots aggregated data per tract
-% 
+
+
 % Unit recordings
 % VT_import: imports raw video associated with place cell recording
 % placecell_v1: preprocesses location data
@@ -33,9 +33,7 @@
 % lap_processing: splits linearized data into individual laps
 % spike_import_v1: imports spike timestamps from offline sorter export
 % velocity_filter: filters out spikes during quiet periods
-% mapcells_v2: calculates firing maps on a per-lap basis
-% mapcells_v3: calculates firing maps overal
-% plotfig_v2: plots firing maps
+
 
 
 
